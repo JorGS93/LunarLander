@@ -1,6 +1,6 @@
 # LunarLander
 
-1- Para la realización de este proyecto el "cliente" Borja Correa me presentó su idea de lo que quería que fuera el Lunar Lander.
+Para la realización de este proyecto el "cliente" Borja Correa me presentó su idea de lo que quería que fuera el Lunar Lander.
 Se solicitan dos versiones, una de escritorio y una de móvil. 
 
 ####La versión de escritorio:
