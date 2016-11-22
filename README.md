@@ -3,7 +3,7 @@
 1- Para la realización de este proyecto el "cliente" Borja Correa me presentó su idea de lo que quería que fuera el Lunar Lander.
 Se solicitan dos versiones, una de escritorio y una de móvil. 
 
-La #versión de escritorio# contiene un botón de pausa el la parte superior derecha con un menú desplegable con opciones como:
+La versión de escritorio# contiene un botón de pausa el la parte superior derecha con un menú desplegable con opciones como:
 intrucciones/about, cambio de nave/paracaidista y reiniciar, en la parte superior izquierda tendremos un panel
 indicando la velocidad y el combustible y la nave quedará en el centro. Tendremos también un botón para poner
 o desactivar el sonido.
